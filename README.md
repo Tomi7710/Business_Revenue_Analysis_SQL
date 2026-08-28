@@ -56,7 +56,7 @@ WHERE customer_code IN (
       WHERE transactions.sales_qty > 100);
 ```
 
-#### Dashboard Highlights : https://public.tableau.com/app/profile/tomisin.olofinjana/viz/SalesInsightDashboard_17012266892520/Dashboard1
+#### Dashboard Highlights : https://public.tableau.com/views/SalesInsightDashboard_17012266892520/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 - Total revenue and sales quantity
 - Revenue by year and market
 - Sales quantity by market
