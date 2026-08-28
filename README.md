@@ -16,7 +16,7 @@ Overall revenue trends, sales quantity, market performance, top-performing produ
 - Find top customers and best-selling products
 - Track yearly and regional revenue trends
 
-#### Sample SQL Queries
+#### SQL Queries
 
 ```sql
 -- Total revenue by region
