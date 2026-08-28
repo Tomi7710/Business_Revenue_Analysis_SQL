@@ -16,13 +16,6 @@ Overall revenue trends, sales quantity, market performance, top-performing produ
 - Find top customers and best-selling products
 - Track yearly and regional revenue trends
 
-#### Dashboard Highlights
-- Total revenue and sales quantity
-- Revenue by year and market
-- Sales quantity by market
-- Top 5 products by revenue
-- Top 5 customers by revenue
-
 #### Sample SQL Queries
 
 ```sql
@@ -63,6 +56,13 @@ WHERE customer_code IN (
       WHERE transactions.sales_qty > 100);
 ```
 
+#### Dashboard Highlights : https://public.tableau.com/views/SalesInsightDashboard_17012266892520/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- Total revenue and sales quantity
+- Revenue by year and market
+- Sales quantity by market
+- Top 5 products by revenue
+- Top 5 customers by revenue
+  
 #### Key Insights
 - Revenue varies significantly across regions and years
 - Identified regions with the highest and lowest revenue contributions
